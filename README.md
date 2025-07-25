@@ -1,7 +1,7 @@
-# <span style="background-color: #024f6dff"> Guia_GitHub</span>
+# Guia_GitHub
 Um guia prático para auxiliar na utilização das ferramentas do GitHub.
 
-## <span style="background-color: #571c2bff"> Criação de Repositórios</span>
+##  Criação de Repositórios
 Um repositório é como uma pasta de projeto onde você pode armazenar **códigos-fonte**, **arquivos**, **documentações**, **histórico de alterações** e colaborar com outras pessoas. Ele é essencialmente um espaço para controlar as versões do seu projeto usando **Git**.
 
 **Você pode criar os repositórios de duas maneiras:** Pelo  próprio site do GitHub ou pelo App do GitHub Daktop.
