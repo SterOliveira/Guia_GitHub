@@ -31,7 +31,7 @@ Você pode criar repositórios de duas formas:
 3. Selecione a opção **"New repository"**  
 
 📸 *Exemplo visual:*  
-![Image](Screenshot_copy.png)
+
 
 ---
 
@@ -40,7 +40,7 @@ Você pode criar repositórios de duas formas:
 Após clicar em "New repository", a página de configuração será aberta:
 
 📸 *Exemplo visual:* 
-![image](<Captura de tela 2025-07-28 121617 - copy.png>)
+
 
 Preencha os seguintes campos:
 
