@@ -31,7 +31,7 @@ Você pode criar repositórios de duas formas:
 3. Selecione a opção **"New repository"**  
 
 📸 *Exemplo visual:*  
-
+![Imagem](Cap_Image/Screenshot_copy.png)
 
 ---
 
@@ -40,8 +40,7 @@ Você pode criar repositórios de duas formas:
 Após clicar em "New repository", a página de configuração será aberta:
 
 📸 *Exemplo visual:* 
-
-
+![Imagem](<Cap_Image/Captura de tela 2025-07-28 121617 - copy.png>)
 Preencha os seguintes campos:
 
 ---
@@ -215,4 +214,4 @@ Ao criar um repositório no GitHub, você pode escolher uma **licença de uso** 
 
 ---
 
-## <img src="Captura de tela 2025-07-28 151035.png" width="30" /> Criação pelo APP
+## <img src="Cap_Image/Captura de tela 2025-07-28 173016.png" width="30" /> Criação pelo APP
