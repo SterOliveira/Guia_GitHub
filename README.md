@@ -215,3 +215,4 @@ Ao criar um repositório no GitHub, você pode escolher uma **licença de uso** 
 ---
 
 ## <img src="Cap_Image/Captura de tela 2025-07-28 173016.png" width="30" /> Criação pelo APP
+A regra de criação do repositório é a mesma, porém funcionamento dentro do APP é um pouco diferente
